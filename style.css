@@ -45,3 +45,11 @@ nav h1 {
 .nav-links a:first-child {
   margin-left: 0;
 }
+
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #0ba0a0;
+  padding: 1%;
+}
